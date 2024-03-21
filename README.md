@@ -76,7 +76,7 @@ uvicorn main:app
 - With the server running, you can access the API at `http://127.0.0.1:8000.`
 - For interactive API documentation, visit `http://127.0.0.1:8000/docs`, where you can test the API endpoints directly from your browser.
 
-**Testing the Endpoints** -> Searching flights for -> origin: BOS, Destination: SFO, Date: 2024-03-17.
+**Testing the Endpoints** -> Searching flights -> origin: BOS, Destination: SFO, Date: 2024-03-17.
 
 ![Clone Premade FastAPI Server](https://github.com/mayankpujara/Gemini-Flights/assets/76840933/808fd8cb-f3e9-462a-82f3-575c17f4f6fc)
 
@@ -143,7 +143,7 @@ generation_config=config
 ## Preparing Submission
 
  - A GitHub repository for the project containing all the project files.
- - Loom Video representing the overall approach.
+ - Loom Video representing the overall approach. [Loom Link](https://www.loom.com/share/2f4b3c7694f848d58b1354403d8097e1)
 
 ##  Issues Faced
  - ⚠️ **InvalidArgument: 400 Request contains an invalid argument**
